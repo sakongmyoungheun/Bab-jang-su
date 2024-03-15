@@ -1,4 +1,4 @@
-![image](https://github.com/sakongmyoungheun/Bab-jang-su/assets/149550142/f1bfb4b1-dcfc-4af1-bb53-9e0061e9a0b8)# 🍚 노인을 위한 식재료 및 식단 추천 어플리케이션
+# 🍚 노인을 위한 식재료 및 식단 추천 어플리케이션
 <img width="100%" alt="image" src="https://github.com/sakongmyoungheun/Bab-jang-su/assets/149550142/8f8df5e2-e3ee-4dda-9671-05384c6068db">
 
 ##### 노인들의 체격에 따른 식단을 랜덤으로 추천해주는 어플
