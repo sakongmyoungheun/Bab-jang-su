@@ -1,5 +1,5 @@
-# 🍚 노인을 위한 식재료 및 식단 추천 어플리케이션
-<img width="100%" alt="image" src="https://github.com/sakongmyoungheun/test/assets/149550142/0be5d4f4-7924-4658-ae32-e3c8a84897a6">
+![image](https://github.com/sakongmyoungheun/Bab-jang-su/assets/149550142/f1bfb4b1-dcfc-4af1-bb53-9e0061e9a0b8)# 🍚 노인을 위한 식재료 및 식단 추천 어플리케이션
+<img width="100%" alt="image" src="https://github.com/sakongmyoungheun/Bab-jang-su/assets/149550142/8f8df5e2-e3ee-4dda-9671-05384c6068db">
 
 ##### 노인들의 체격에 따른 식단을 랜덤으로 추천해주는 어플
 ###### 인원 : 6명
@@ -33,9 +33,8 @@
 
 밥장수는 특정 질병이나 알러지에 대한 정보를 바탕으로 개인에게 이로운 식단을 제공하며 혈압, 혈당, 몸무게와 같은 노인들의 건강 상태를 모니터링하기 쉽게하여 편의를 제공합니다. 이를 통해 노인들의 삶의 질과 건강을 향상시키는데 기여할 수 있다고 생각합니다.
 
-<img width="100%" alt="image" src="https://github.com/sakongmyoungheun/test/assets/149550142/ba7efad7-75c1-4d4a-9040-4d3176aa9a8f">
-<img width="100%" alt="image" src="https://github.com/sakongmyoungheun/test/assets/149550142/3c76b951-bb46-4989-a86c-d4dff7433982">
-
+<img width="100%" alt="image" src="https://github.com/sakongmyoungheun/Bab-jang-su/assets/149550142/cff47f61-ee94-4725-ab15-8f555107838e">
+<img width="100%" alt="image" src="https://github.com/sakongmyoungheun/Bab-jang-su/assets/149550142/be127db3-3903-4c1f-a111-fa220a166e08">
 
 ## ✏️ 사용한 공공데이터
 1. [식품의약품안전처_조리식품의 레시피 DB open API](https://www.data.go.kr/data/15060073/openapi.do)
@@ -49,10 +48,10 @@
 ###### - 기획, 서버구현, 프론트구현, PPT, 발표. 디자인, 서버배포
 
 ## 🌏 IA(Information Architecture)
-<img width="100%" alt="image" src="https://github.com/sakongmyoungheun/test/assets/149550142/bbeca95a-497e-4604-8327-21fd6e3c1e17">
+<img width="100%" alt="image" src="https://github.com/sakongmyoungheun/Bab-jang-su/assets/149550142/7a8841b6-3e56-47a4-9f3d-877fff3949d1">
 
 ## 🗓️ Work schedule
-<img width="100%" alt="image" src="https://github.com/sakongmyoungheun/test/assets/149550142/96bd99a9-6ff7-447b-b5e0-2a1351284d4c">
+<img width="100%" alt="image" src="https://github.com/sakongmyoungheun/Bab-jang-su/assets/149550142/feb8d6d4-f6d0-4907-a9e5-215420f2f7d0">
 
 ## 🚀 Result
 ### 🎨 프론트 디자인 및 결과 PPT
@@ -75,8 +74,7 @@
 3. 시스템 모니터링
 
 ### 활용방안 및 기대효과
-<img width="100%" alt="image" src="https://github.com/sakongmyoungheun/test/assets/149550142/952df35c-0493-465f-a02f-570aec24eb5e">
+<img width="100%" alt="image" src="https://github.com/sakongmyoungheun/Bab-jang-su/assets/149550142/444b8aa0-ea88-4ec9-bb59-a391be2381d5">
 
 ### 🚀 트러블슈팅
-<img width="100%" alt="image" src="https://github.com/sakongmyoungheun/test/assets/149550142/afd7edc6-a786-497c-b320-f7fa58f3c063">
-
+<img width="100%" alt="image" src="https://github.com/sakongmyoungheun/Bab-jang-su/assets/149550142/177eff18-4f01-4326-b88d-e26f13b4ed52">
